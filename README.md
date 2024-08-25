@@ -1,3 +1,4 @@
 # githubDemo1
 this is my demo repo
-Author-Arima Tripathi
+Author-Arima Tripathi(apna college)
+
